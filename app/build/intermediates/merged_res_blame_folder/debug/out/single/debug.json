@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shikh\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-26:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.helloworld.app-main-26:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

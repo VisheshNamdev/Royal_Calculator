@@ -1,0 +1,27 @@
+com.example.helloworld.app-appcompat-1.4.1-0 C:\Users\shikh\.gradle\caches\transforms-3\07087a925c2fa9cf908b06c8fc21f437\transformed\appcompat-1.4.1\res
+com.example.helloworld.app-drawerlayout-1.1.1-1 C:\Users\shikh\.gradle\caches\transforms-3\0f3876d718237e4aa54a5f967de1cea1\transformed\drawerlayout-1.1.1\res
+com.example.helloworld.app-emoji2-views-helper-1.0.0-2 C:\Users\shikh\.gradle\caches\transforms-3\220abe624ecd09c07ef8f271042358c1\transformed\emoji2-views-helper-1.0.0\res
+com.example.helloworld.app-lifecycle-viewmodel-2.3.1-3 C:\Users\shikh\.gradle\caches\transforms-3\2d7c1799714963dbe266ef0132ae460e\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.helloworld.app-emoji2-1.0.0-4 C:\Users\shikh\.gradle\caches\transforms-3\42f3b83b8e9a0a0c79e5fc3ff6d2d869\transformed\emoji2-1.0.0\res
+com.example.helloworld.app-viewpager2-1.0.0-5 C:\Users\shikh\.gradle\caches\transforms-3\453a69a9d6f52c4c104a2eaab1c33f1f\transformed\viewpager2-1.0.0\res
+com.example.helloworld.app-cardview-1.0.0-6 C:\Users\shikh\.gradle\caches\transforms-3\64a2d392994452577a480e11197fabd6\transformed\cardview-1.0.0\res
+com.example.helloworld.app-coordinatorlayout-1.1.0-7 C:\Users\shikh\.gradle\caches\transforms-3\671a06b1893081f2c8ad60f3958f34d7\transformed\coordinatorlayout-1.1.0\res
+com.example.helloworld.app-constraintlayout-2.1.3-8 C:\Users\shikh\.gradle\caches\transforms-3\72b9050c158450da8c5e67c572121f7d\transformed\constraintlayout-2.1.3\res
+com.example.helloworld.app-annotation-experimental-1.1.0-9 C:\Users\shikh\.gradle\caches\transforms-3\8723be3de5470b4177388d8ccdff9a04\transformed\annotation-experimental-1.1.0\res
+com.example.helloworld.app-appcompat-resources-1.4.1-10 C:\Users\shikh\.gradle\caches\transforms-3\8eb0c7b9303c3515b49022815b589885\transformed\appcompat-resources-1.4.1\res
+com.example.helloworld.app-lifecycle-runtime-2.4.0-11 C:\Users\shikh\.gradle\caches\transforms-3\975b8ca52c078c8d68ea3a5e43b65443\transformed\lifecycle-runtime-2.4.0\res
+com.example.helloworld.app-transition-1.2.0-12 C:\Users\shikh\.gradle\caches\transforms-3\98523101c9963e531757127a1e8b685c\transformed\transition-1.2.0\res
+com.example.helloworld.app-recyclerview-1.1.0-13 C:\Users\shikh\.gradle\caches\transforms-3\9e1d4f8f0375e8e046d4b4131d85e943\transformed\recyclerview-1.1.0\res
+com.example.helloworld.app-core-1.7.0-14 C:\Users\shikh\.gradle\caches\transforms-3\a11b41a9c65e3bb3d5437e5ac8426594\transformed\core-1.7.0\res
+com.example.helloworld.app-savedstate-1.1.0-15 C:\Users\shikh\.gradle\caches\transforms-3\a26fddbbb2354a16681dc63f919b4a79\transformed\savedstate-1.1.0\res
+com.example.helloworld.app-lifecycle-process-2.4.0-16 C:\Users\shikh\.gradle\caches\transforms-3\a37af28ce1785a92cd0521bcc7cc1858\transformed\lifecycle-process-2.4.0\res
+com.example.helloworld.app-material-1.5.0-17 C:\Users\shikh\.gradle\caches\transforms-3\a965dbd46dad388efad08cc8f6d01086\transformed\material-1.5.0\res
+com.example.helloworld.app-startup-runtime-1.0.0-18 C:\Users\shikh\.gradle\caches\transforms-3\b261447059f0f93246c165b082fe5974\transformed\startup-runtime-1.0.0\res
+com.example.helloworld.app-fragment-1.3.6-19 C:\Users\shikh\.gradle\caches\transforms-3\e1467e7620ed65b0f9ec090c601e5f8d\transformed\fragment-1.3.6\res
+com.example.helloworld.app-pngs-20 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\build\generated\res\pngs\debug
+com.example.helloworld.app-resValues-21 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\build\generated\res\resValues\debug
+com.example.helloworld.app-packageDebugResources-22 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.helloworld.app-packageDebugResources-23 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.helloworld.app-merged_res-24 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\build\intermediates\merged_res\debug
+com.example.helloworld.app-debug-25 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\src\debug\res
+com.example.helloworld.app-main-26 C:\Users\shikh\AndroidStudioProjects\Royal Calculator\app\src\main\res
